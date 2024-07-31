@@ -1,9 +1,24 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"FMSE":
+  url: "https://dl.acm.org/conference/ccs"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"FOOL":
+  url: "https://www.cis.upenn.edu/~bcpierce/FOOL/"
 
-"Vision":
-  color: "#009f36"
+"ICFP":
+  url: "https://dl.acm.org/conference/icfp"
+
+"OSR":
+  url: "https://dl.acm.org/newsletter/sigops"
+
+"POPL":
+  url: "https://dl.acm.org/conference/popl"
+
+"PPDP":
+  url: "https://dl.acm.org/conference/ppdp"
+
+"PRINCETON":
+  url: "https://www.cs.princeton.edu/"
+
+"TOPLAS":
+  url: "https://dl.acm.org/journal/toplas"
+  
