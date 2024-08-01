@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='/guides/'>guides</a> } <a href='/research/'>research</a> | <a href='https://www.github.com/dantasfiles'>code</a> | <a href='https://www.linkedin.com/in/dantasfiles'>cv</a>"
+subtitle: "<a href='/guides/'>guides</a> | <a href='/research/'>research</a> | <a href='https://www.github.com/dantasfiles'>code</a> | <a href='https://www.linkedin.com/in/dantasfiles'>cv</a>"
 
 profile:
   align: right
