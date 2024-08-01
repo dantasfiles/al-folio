@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"bicket":
+  - firstname: ["John"]
+    url: https://www.linkedin.com/in/jbicket/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"bruns":
+  - firstname: ["Glenn"]
+    url: https://csumb.edu/scd/glenn-bruns/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"fisher":
+  - firstname: ["Kathleen"]
+    url: https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"du":
+  - firstname: ["Bowei"]
+    url: https://www.linkedin.com/in/boweidu/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"huth":
+  - firstname: ["Michael"]
+    url: https://www.doc.ic.ac.uk/~mrh/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"jia":
+  - firstname: ["Limin"]
+    url: https://www.andrew.cmu.edu/user/liminjia/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"mandelbaum":
+  - firstname: ["Yizhak"]
+    url: https://www.linkedin.com/in/yitzhak-mandelbaum-0476022/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"pai":
+  - firstname: ["Vivek"]
+    url: https://www.linkedin.com/in/vivek-pai-5a05549/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"sirer":
+  - firstname: ["Emin Gun"]
+    url: https://www.cs.cornell.edu/people/egs/
+
+"washburn":
+  - firstname: ["Geoffrey"]
+    url: https://www.linkedin.com/in/geoffrey-washburn-761a3b7/
+
+"walker":
+  - firstname: ["David"]
+    url: https://www.cs.princeton.edu/~dpw/
+
+"weirich":
+  - firstname: ["Stephanie"]
+    url: https://www.cis.upenn.edu/~sweirich/
+
+"zhu":
+  - firstname: ["Kenny"]
+    url: https://www.uta.edu/academics/faculty/profile?username=zhuk2
