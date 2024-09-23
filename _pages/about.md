@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Technology in NJ
+Technology in NJ<br>Ph.D in Computer Science from Princeton University<br> B.S. in Computer Science from Cornell University
 
